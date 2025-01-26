@@ -76,8 +76,8 @@ Home Page
 Child-Friendly chatbot
 
 
+![image](https://github.com/user-attachments/assets/399a6790-1292-4971-a9b3-ee29d7d38630)
 
-![chatbot](https://github.com/user-attachments/assets/1d18427c-5579-4a7a-9260-307a81729467)
 
 
 

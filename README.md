@@ -43,7 +43,7 @@ Technologies/Components Used
 For Software:
 
 Python
-Django
+Django,
 django,google-generativeai,python-dotenv
 Git,Terminal,VScode
 

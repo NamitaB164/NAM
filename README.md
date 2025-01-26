@@ -67,8 +67,8 @@ Run
 Project Documentation
 
 Home Page
+![image](https://github.com/user-attachments/assets/db120b22-cc29-4b95-92bc-64e089c7b762)
 
-![image](https://github.com/user-attachments/assets/7164ee86-644a-4f06-ab7a-c00361c8e522)
 
 
 

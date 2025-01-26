@@ -50,8 +50,8 @@ Git,Terminal,VScode
 For Hardware:
 
 Lenovo- Ideapad Slim 3 core i5 8gb ram
-HP-
-HP-
+HP- Pavillion core i5
+HP- core i5
 
 Implementation
 
@@ -85,6 +85,8 @@ Child-Friendly chatbot
 
 
 Story Teller
+
+
 
 
 

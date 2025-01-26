@@ -87,6 +87,12 @@ Child-Friendly chatbot
 Story Teller
 
 
+![Screenshot (5)](https://github.com/user-attachments/assets/3f08072e-9324-4391-8910-cc0a81658de4)
+
+
+Demo Video
+
+
 https://drive.google.com/drive/folders/1GjuS9iSBZACY8b02Y9B6FKWHHYArtWhn?usp=sharing
 
 

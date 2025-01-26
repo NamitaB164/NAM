@@ -68,7 +68,8 @@ Project Documentation
 
 Home Page
 
-![home](https://github.com/user-attachments/assets/cbde12ce-295f-4c84-bc3f-c2e663a3c1bc)
+![image](https://github.com/user-attachments/assets/7164ee86-644a-4f06-ab7a-c00361c8e522)
+
 
 
 

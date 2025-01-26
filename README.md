@@ -103,3 +103,13 @@ NAM Team
 ![WhatsApp Image 2025-01-26 at 10 02 39](https://github.com/user-attachments/assets/1982745d-1b18-4f04-b55c-5e638deac210)
 
 
+Team Contributions
+
+Aswini KS: Created Story Teller and its interface
+
+Merin PR: Made significant changes to Story Teller and its interface
+
+Namita B: Created Chatbot and its interface. Integrated Chatbot and Story Teller
+
+
+

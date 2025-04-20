@@ -104,9 +104,6 @@ Flow Chart
 ![image](https://github.com/user-attachments/assets/69b12d18-690e-4662-b62a-94f724a90f19)
 
 
-NAM Team
-
-![WhatsApp Image 2025-01-26 at 10 02 39](https://github.com/user-attachments/assets/1982745d-1b18-4f04-b55c-5e638deac210)
 
 
 Team Contributions

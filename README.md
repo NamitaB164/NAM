@@ -11,9 +11,7 @@ Member 2: Merin PR - NSS College Of Engineering
 Member 3: Namita B - NSS College Of Engineering
 
 
-Hosted Project Link
 
-[mention your project hosted project link here]
 
 Project Description
 
